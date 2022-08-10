@@ -30,3 +30,9 @@ require_once('config.php');
 // $usuario->loadById(3);
 // $usuario->update('professor', '321@p');
 // echo $usuario;
+
+// DELETE UM ID //
+// $usuario = new Usuario();
+// $usuario->loadById(3);
+// $usuario->delete();
+// echo $usuario;
